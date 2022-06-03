@@ -7,13 +7,15 @@
 **GitHub:** mariyasolodukha  
 ## Briefly about myself
  I'm a fourth-year student of MSLU and I study Intercultural Communications. I'm also looking forward to my graduation so that I could devote myself to coding, because find it extremely interesting. I like learnig new things, I'm a big fan of languages. I want to get knowledge and skills in Front-End Development in RSSchool!
- ## Skills
+ 
+## Skills
  * JavaScript
  * HTML&CSS
  * Git, GitHub
  * Figma
  * VS Code 
- ## Code example
+ 
+## Code example
 ``` 
 function multiply(a, b) {
     return a * b
