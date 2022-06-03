@@ -16,4 +16,15 @@
  ## Code example
 ```function multiply(a, b) {
     return a * b
-}```
+};
+```
+## Work experience
+Nothing yet
+## Education
+* Minsk State Linguistic University, Intercultural Communication, Public Relations
+* College for languages and humanities, Linguistic Support of Socio-cultural activities
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+## Languages
+* English - C1
+* Spanish - B1
+* Russian - Native
